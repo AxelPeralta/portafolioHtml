@@ -80,6 +80,9 @@ a {
     .escritorio {
         display: none;
     }
+    .margen-icono {
+        margin-top: 8rem;
+    }
 }
 
 
